@@ -1,8 +1,3 @@
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.csproj.AssemblyReference.cache
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.GeneratedMSBuildEditorConfig.editorconfig
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.AssemblyInfoInputs.cache
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.AssemblyInfo.cs
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.csproj.CoreCompileInputs.cache
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\bin\Debug\net5.0\ShopMangementApplication.deps.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\bin\Debug\net5.0\ShopMangementApplication.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\bin\Debug\net5.0\ref\ShopMangementApplication.dll
@@ -13,6 +8,11 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\bin\Debug\net5.
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\bin\Debug\net5.0\ShopManagement.Domain.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\bin\Debug\net5.0\0_Framework.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.csproj.AssemblyReference.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.AssemblyInfoInputs.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.AssemblyInfo.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.csproj.CoreCompileInputs.cache
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.csproj.CopyComplete
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ref\ShopMangementApplication.dll
