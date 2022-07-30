@@ -1,4 +1,11 @@
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.AssemblyReference.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.AssemblyInfoInputs.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.AssemblyInfo.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.CoreCompileInputs.cache
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.deps.json
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.runtimeconfig.json
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.runtimeconfig.dev.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ref\ShopManagement.Configuration.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.pdb
@@ -12,15 +19,8 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\n
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopMangementApplication.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\0_Framework.pdb
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.AssemblyReference.cache
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.GeneratedMSBuildEditorConfig.editorconfig
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.AssemblyInfoInputs.cache
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.AssemblyInfo.cs
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.CoreCompileInputs.cache
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.CopyComplete
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.runtimeconfig.json
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.runtimeconfig.dev.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.genruntimeconfig.cache
