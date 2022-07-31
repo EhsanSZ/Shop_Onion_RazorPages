@@ -9,4 +9,3 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\0_Framework\obj\Debug\net5.0\0_Framework
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\0_Framework\obj\Debug\net5.0\ref\0_Framework.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.pdb
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\0_Framework\obj\Debug\net5.0\0_Framework.csproj.AssemblyReference.cache
