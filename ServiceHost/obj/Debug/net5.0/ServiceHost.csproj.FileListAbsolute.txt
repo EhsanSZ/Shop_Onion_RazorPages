@@ -164,3 +164,6 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\ref\ServiceHost.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost.genruntimeconfig.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Create.cshtml.g.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Edit.cshtml.g.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Products\Index.cshtml.g.cs

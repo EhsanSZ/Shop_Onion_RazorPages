@@ -35,6 +35,6 @@ namespace ShopManagement.Application.Contracts.Product
 
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string MetaDescription { get; set; }
-        //public List<ProductCategoryViewModel> Categories { get; set; }
+        public List<ProductCategoryViewModel> Categories { get; set; }
     }
 }
