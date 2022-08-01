@@ -30,7 +30,6 @@ namespace ShopManagement.Configuration
             services.AddTransient<IProductPictureRepository, ProductPictureRepository>();
 
             services.AddTransient<ISlideApplication, SlideApplication>();
-
             services.AddTransient<ISlideRepository, SlideRepository>();
 
 
