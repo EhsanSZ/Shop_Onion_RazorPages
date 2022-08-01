@@ -1,204 +1,164 @@
 ﻿@page
-@using Newtonsoft.Json
-@model Areas.Administration.Pages.IndexModel
+@model IndexModel
 @{
-    ViewData["Title"] = "صفحه اصلی";
+    ViewData["Title"] = "پروژه فروشگاه";
 }
 
-<div class="row">
-    <div class="col-sm-12">
-        <h4 class="page-title">داشبورد گزارشات</h4>
-    </div>
-</div>
+@await Component.InvokeAsync("Slide")
 
-<div class="row">
-    <div class="col-md-6 col-sm-6 col-lg-3">
-        <div class="mini-stat clearfix bx-shadow">
-            <span class="mini-stat-icon bg-info">
-                <i class="ion-social-usd"></i>
-            </span>
-            <div class="mini-stat-info text-right text-muted">
-                <span class="counter">15852</span>
-                Total Sales
-            </div>
-            <div class="tiles-progress">
-                <div class="m-t-20">
-                    <h5 class="text-uppercase">Sales <span class="pull-right">60%</span></h5>
-                    <div class="progress progress-sm m-0">
-                        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
-                            <span class="sr-only">60% Complete</span>
+@await Component.InvokeAsync("ProductCategory")
+
+@await Component.InvokeAsync("ProductCategoryWithProduct")
+
+@await Component.InvokeAsync("LatestArrivals")
+
+<!--====================  banner hover area ====================-->
+<div class="banner-hover-area section-space">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <!--=======  banner hover wrapper  =======-->
+                <div class="banner-hover-wrapper">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <!--=======  single hover banner  =======-->
+                            <div class="single-hover-banner">
+                                <div class="single-hover-banner__image">
+                                    <a href="shop-left-sidebar.html">
+                                        <img src="~/Theme/assets/img/banners/img1-middle-eposi1.jpg" class="img-fluid"
+                                             alt="">
+                                    </a>
+                                    <div class="single-hover-banner__content">
+                                        <h4 class="small-text">Black Friday</h4>
+                                        <h3 class="big-text">Save Up To 50% Off</h3>
+                                        <a class="banner-link" href="shop-left-sidebar.html">SHOP NOW</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--=======  End of single hover banner  =======-->
+                        </div>
+
+                        <div class="col-md-6">
+                            <!--=======  single hover banner  =======-->
+                            <div class="single-hover-banner">
+                                <div class="single-hover-banner__image">
+                                    <a href="shop-left-sidebar.html">
+                                        <img src="~/Theme/assets/img/banners/img2-middle-eposi1.jpg" class="img-fluid"
+                                             alt="">
+                                    </a>
+                                    <div class="single-hover-banner__content">
+                                        <h4 class="small-text">Best Selling !</h4>
+                                        <h3 class="big-text">Living Room Up To 70% Off</h3>
+                                        <a class="banner-link" href="shop-left-sidebar.html">SHOP NOW</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--=======  End of single hover banner  =======-->
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-md-6 col-sm-6 col-lg-3">
-        <div class="mini-stat clearfix bx-shadow">
-            <span class="mini-stat-icon bg-purple">
-                <i class="ion-ios7-cart"></i>
-            </span>
-            <div class="mini-stat-info text-right text-muted">
-                <span class="counter">956</span>
-                New Orders
-            </div>
-            <div class="tiles-progress">
-                <div class="m-t-20">
-                    <h5 class="text-uppercase">Orders <span class="pull-right">90%</span></h5>
-                    <div class="progress progress-sm m-0">
-                        <div class="progress-bar progress-bar-purple" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
-                            <span class="sr-only">90% Complete</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-md-6 col-sm-6 col-lg-3">
-        <div class="mini-stat clearfix bx-shadow">
-            <span class="mini-stat-icon bg-success">
-                <i class="ion-eye"></i>
-            </span>
-            <div class="mini-stat-info text-right text-muted">
-                <span class="counter">20544</span>
-                Unique Visitors
-            </div>
-            <div class="tiles-progress">
-                <div class="m-t-20">
-                    <h5 class="text-uppercase">Visitors <span class="pull-right">60%</span></h5>
-                    <div class="progress progress-sm m-0">
-                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
-                            <span class="sr-only">60% Complete</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="col-md-6 col-sm-6 col-lg-3">
-        <div class="mini-stat clearfix bx-shadow">
-            <span class="mini-stat-icon bg-primary">
-                <i class="ion-android-contacts"></i>
-            </span>
-            <div class="mini-stat-info text-right text-muted">
-                <span class="counter">5210</span>
-                New Users
-            </div>
-            <div class="tiles-progress">
-                <div class="m-t-20">
-                    <h5 class="text-uppercase">Users <span class="pull-right">57%</span></h5>
-                    <div class="progress progress-sm m-0">
-                        <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="57" aria-valuemin="0" aria-valuemax="100" style="width: 57%;">
-                            <span class="sr-only">57% Complete</span>
-                        </div>
-                    </div>
-                </div>
+                <!--=======  End of banner hover wrapper  =======-->
             </div>
         </div>
     </div>
 </div>
-
-<div class="row">
-
-    <div class="col-sm-6">
-        <div class="portlet">
-
-            <div class="portlet-heading">
-                <h3 class="portlet-title text-dark text-uppercase">
-                    Website Stats
-                </h3>
-                <canvas id="line"></canvas>
+<!--====================  End of banner hover area  ====================-->
+<!--====================  feature logo area ====================-->
+<div class="feature-logo-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <!--=======  feature logo wrapper  =======-->
+                <div class="feature-logo-wrapper section-space--inner-bottom">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <!--=======  single feature logo  =======-->
+                            <div class="single-feature-logo">
+                                <div class="single-feature-logo__image">
+                                    <img src="~/Theme/assets/img/icons/free_shipping.png" class="img-fluid" alt="">
+                                </div>
+                                <div class="single-feature-logo__content">
+                                    <h4 class="title">FREE SHIPPING WORLDWIDE</h4>
+                                    <p class="short-desc">
+                                        We offer free shipping via Standard Shipping on orders
+                                        over $200.00
+                                    </p>
+                                </div>
+                            </div>
+                            <!--=======  End of single feature logo  =======-->
+                        </div>
+                        <div class="col-md-4">
+                            <!--=======  single feature logo  =======-->
+                            <div class="single-feature-logo">
+                                <div class="single-feature-logo__image">
+                                    <img src="~/Theme/assets/img/icons/money_back.png" class="img-fluid" alt="">
+                                </div>
+                                <div class="single-feature-logo__content">
+                                    <h4 class="title">MONEY BACK GUARANTEE</h4>
+                                    <p class="short-desc">
+                                        If you're not satisfied with our product, we'll refund the
+                                        purchase price*.
+                                    </p>
+                                </div>
+                            </div>
+                            <!--=======  End of single feature logo  =======-->
+                        </div>
+                        <div class="col-md-4">
+                            <!--=======  single feature logo  =======-->
+                            <div class="single-feature-logo">
+                                <div class="single-feature-logo__image">
+                                    <img src="~/Theme/assets/img/icons/support247.png" class="img-fluid" alt="">
+                                </div>
+                                <div class="single-feature-logo__content">
+                                    <h4 class="title">ONLINE SUPPORT 24/7</h4>
+                                    <p class="short-desc">
+                                        Our friendly support team is available to help you 24
+                                        hours a day, seven days a week
+                                    </p>
+                                </div>
+                            </div>
+                            <!--=======  End of single feature logo  =======-->
+                        </div>
+                    </div>
+                </div>
+                <!--=======  End of feature logo wrapper  =======-->
             </div>
-
         </div>
     </div>
-
-    <div class="col-sm-6">
-        <div class="portlet">
-
-            <div class="portlet-heading">
-                <h3 class="portlet-title text-dark text-uppercase">
-                    Website Stats
-                </h3>
-                <canvas id="bar"></canvas>
-            </div>
-
-        </div>
-    </div>
-    
-    <div class="col-sm-6">
-        <div class="portlet">
-
-            <div class="portlet-heading">
-                <h3 class="portlet-title text-dark text-uppercase">
-                    Website Stats
-                </h3>
-                <canvas width="300" id="doughnut"></canvas>
-            </div>
-
-        </div>
-    </div>
-
 </div>
+<!--====================  End of feature logo area  ====================-->
 
-@section Scripts{
-    <script>
-        const lineChartDiv = document.getElementById("line");
-        const data = @Html.Raw(JsonConvert.SerializeObject(Model.BarLineDataSet));
-        const lineChart = new Chart(lineChartDiv,
-            {
-                type: "line",
-                data: {
-                    labels: ["مهر", "آبان", "آذر", " دی", "بهمن"],
-                    datasets: data
-                },
-                options: {
-                    elements: {
-                        bar: {
-                            borderWidth: 1
-                        }
-                    }
-                }
-            });
+@await Component.InvokeAsync("LatestArticles")
 
+<!--====================  newsletter area ====================-->
+<div class="newsletter-area section-space--inner">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 offset-lg-2">
+                <div class="newsletter-wrapper">
+                    <p class="small-text">Special Ofers For Subscribers</p>
+                    <h3 class="title">Ten Percent Member Discount</h3>
+                    <p class="short-desc">
+                        Subscribe to our newsletters now and stay up to date with new collections,
+                        the latest lookbooks and exclusive offers.
+                    </p>
 
-        const barChartDiv = document.getElementById("bar");
-        const barChart = new Chart(barChartDiv,
-            {
-                type: "bar",
-                data: {
-                    labels: ["مهر", "آبان", "آذر", " دی", "بهمن"],
-                    datasets: data
-                },
-                options: {
-                    elements: {
-                        bar: {
-                            borderWidth: 1
-                        }
-                    }
-                }
-            });
+                    <div class="newsletter-form">
+                        <form id="mc-form" class="mc-form">
+                            <input type="email" placeholder="Enter Your Email Address Here..." required>
+                            <button type="submit" value="submit">SUBSCRIBE</button>
+                        </form>
 
-
-        const doughnutChartDiv = document.getElementById("doughnut");
-        const doughnutData = @Html.Raw(JsonConvert.SerializeObject(Model.DoughnutDataSet));
-        const doughnutChart = new Chart(doughnutChartDiv,
-            {
-                type: "doughnut",
-                data: {
-                    labels: ["Iphone 12", "Iphone 11", "Mac Book Pro", "IPad", "Apple Watch"],
-                    datasets: [doughnutData]
-                },
-                options: {
-                    elements: {
-                        bar: {
-                            borderWidth: 1
-                        }
-                    }
-                }
-            });
-    </script>
-}
+                    </div>
+                    <!-- mailchimp-alerts Start -->
+                    <div class="mailchimp-alerts">
+                        <div class="mailchimp-submitting"></div><!-- mailchimp-submitting end -->
+                        <div class="mailchimp-success"></div><!-- mailchimp-success end -->
+                        <div class="mailchimp-error"></div><!-- mailchimp-error end -->
+                    </div>
+                    <!-- mailchimp-alerts end -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

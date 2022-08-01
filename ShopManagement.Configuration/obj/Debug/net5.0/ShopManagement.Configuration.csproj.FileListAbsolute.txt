@@ -24,3 +24,5 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\n
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.genruntimeconfig.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\01_LampshadeQuery.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\01_LampshadeQuery.pdb
