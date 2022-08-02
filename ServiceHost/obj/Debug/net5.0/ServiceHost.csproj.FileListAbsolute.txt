@@ -176,3 +176,13 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\01_Lampshad
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategory\Default.cshtml.g.cs
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slide\Default.cshtml.g.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contracts.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Configuration.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Configuration.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb

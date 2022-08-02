@@ -19,7 +19,7 @@ namespace ShopMangementApplication
         {
             var operation = new OperationResult();
             if (_productCategoryRepostory.Exists(x=> x.Name == command.Name))
-                operation.Failed("هشدار ! نامی که برای دسته بندی انتخاب کردید قبلا ثبت شده");
+                operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var slug = command.Slug.Slugify();
             var productCategory = new ProductCategory(command.Name, command.Description,
@@ -39,10 +39,10 @@ namespace ShopMangementApplication
             var productCategory = _productCategoryRepostory.Get(command.Id);
 
             if (productCategory == null)
-                return operation.Failed("سرگروهی با اطلاعات درخواست شده یافت نشد");
+                return operation.Failed(ApplicationMessages.RecordNotFound);
 
             if (_productCategoryRepostory.Exists(x => x.Name == command.Name && x.Id != command.Id))
-                return operation.Failed("هشدار ! نامی که برای دسته بندی انتخاب کردید قبلا ثبت شده");
+                return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var slug = command.Slug.Slugify();
 
