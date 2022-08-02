@@ -186,3 +186,6 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountMan
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contracts.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Create.cshtml.g.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Edit.cshtml.g.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Index.cshtml.g.cs

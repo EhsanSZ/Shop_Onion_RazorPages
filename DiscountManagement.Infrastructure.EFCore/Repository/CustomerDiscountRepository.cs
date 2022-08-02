@@ -47,7 +47,7 @@ namespace DiscountManagement.Infrastructure.EFCore.Repository
                 StartDateGr = x.StartDate,
                 ProductId = x.ProductId,
                 Reason = x.Reason,
-                CreationDate = x.CreationDate.ToString(CultureInfo.InvariantCulture)
+                CreationDate = x.CreationDate.ToFarsi()
             });
 
             if (searchModel.ProductId > 0)
