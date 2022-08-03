@@ -1,4 +1,3 @@
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.AssemblyReference.cache
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.AssemblyInfoInputs.cache
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.AssemblyInfo.cs
@@ -15,3 +14,4 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Domain\obj\Debug\net5.0\S
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ref\ShopManagement.Domain.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.AssemblyReference.cache
