@@ -16,3 +16,4 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ref\ShopMangementApplication.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopMangementApplication\obj\Debug\net5.0\ShopMangementApplication.csproj.AssemblyReference.cache
