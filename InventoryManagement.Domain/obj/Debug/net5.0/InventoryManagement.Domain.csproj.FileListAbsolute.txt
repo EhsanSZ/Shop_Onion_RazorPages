@@ -1,0 +1,15 @@
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Domain.deps.json
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\bin\Debug\net5.0\ref\InventoryManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\bin\Debug\net5.0\0_Framework.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\bin\Debug\net5.0\0_Framework.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csproj.AssemblyReference.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.AssemblyInfo.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csproj.CoreCompileInputs.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.csproj.CopyComplete
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\obj\Debug\net5.0\ref\InventoryManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Domain\obj\Debug\net5.0\InventoryManagement.Domain.pdb
