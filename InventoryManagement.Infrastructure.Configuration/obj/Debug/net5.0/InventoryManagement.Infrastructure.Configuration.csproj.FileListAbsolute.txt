@@ -25,3 +25,5 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Confi
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\ref\InventoryManagement.Infrastructure.Configuration.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Application.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Application.pdb
