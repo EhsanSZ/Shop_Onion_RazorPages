@@ -1,7 +1,6 @@
 ﻿using _0_Framework.Application;
 using InventoryManagement.Application.Contract.Inventory;
 using InventoryManagement.Domain.InventoryAgg;
-using System;
 using System.Collections.Generic;
 
 namespace InventoryManagement.Application

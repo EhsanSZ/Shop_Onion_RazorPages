@@ -73,30 +73,6 @@ namespace ShopManagement.Application
             return _productRepository.GetProducts();
         }
 
-        public OperationResult IsStock(long id)
-        {
-            var operation = new OperationResult();
-            var product = _productRepository.GetProductWithCategory(id);
-            if (product == null)
-                return operation.Failed(ApplicationMessages.RecordNotFound);
-
-            product.InStock();
-            _productRepository.SaveChanges();
-            return operation.Succedded();
-        }
-
-        public OperationResult NotInStock(long id)
-        {
-            var operation = new OperationResult();
-            var product = _productRepository.GetProductWithCategory(id);
-
-            if (product == null)
-                return operation.Failed(ApplicationMessages.RecordNotFound);
-
-            product.NotInStock();
-            _productRepository.SaveChanges();
-            return operation.Succedded();
-        }
 
         public List<ProductViewModel> Search(ProductSearchModel searchModel)
         {
