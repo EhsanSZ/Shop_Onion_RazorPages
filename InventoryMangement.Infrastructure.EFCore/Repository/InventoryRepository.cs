@@ -62,5 +62,25 @@ namespace InventoryMangement.Infrastructure.EFCore.Repository
 
             return inventory;
         }
+
+        public List<InventoryOperationViewModel> GetOperationLog(long inventoryId)
+        {
+            var inventory = _inventoryContext.Inventory.FirstOrDefault(x => x.Id == inventoryId);
+
+            var operations = inventory.Operations.Select(x => new InventoryOperationViewModel
+            {
+                Id = x.Id,
+                Count = x.Count,
+                CurrentCount = x.CurrentCount,
+                Description = x.Description,
+                Operation = x.Operation,
+                OperationDate = x.OperationDate.ToFarsi(),
+                OperatorId = x.OperatorId,
+                OrderId = x.OrderId ,
+                Operator = "مدیر سیستم"
+            }).OrderByDescending(x => x.Id).ToList();
+
+            return operations;
+        }
     }
 }
