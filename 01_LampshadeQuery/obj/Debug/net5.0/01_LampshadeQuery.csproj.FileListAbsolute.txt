@@ -18,3 +18,16 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_La
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\obj\Debug\net5.0\ref\01_LampshadeQuery.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contracts.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.AssemblyReference.cache
