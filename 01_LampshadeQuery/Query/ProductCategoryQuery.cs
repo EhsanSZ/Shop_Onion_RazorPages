@@ -78,9 +78,7 @@ namespace _01_LampshadeQuery.Query
                     }
                 }
             }
-
             return categories;
-
         }
         private static List<ProductQueryModel> MapProducts(List<Product> products)
         {
