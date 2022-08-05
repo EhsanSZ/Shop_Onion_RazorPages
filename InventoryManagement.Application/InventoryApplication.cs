@@ -77,13 +77,12 @@ namespace InventoryManagement.Application
         public OperationResult Reduce(List<ReduceInventory> command)
         {
             var operation = new OperationResult();
-            var operatorId = 2;
+            var operatorId = 1;
             foreach (var item in command)
             {
                 var inventory = _inventoryRepository.GetBy(item.ProductId);
                 inventory.Reduce(item.Count, operatorId, item.Description, item.OrderId);
             }
-
             _inventoryRepository.SaveChanges();
             return operation.Succedded();
         }

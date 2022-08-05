@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using _01_LampshadeQuery.Contracts.Product;
+using System.Collections.Generic;
 
 namespace _01_LampshadeQuery.Contracts.ProductCategory
 {
@@ -14,6 +15,6 @@ namespace _01_LampshadeQuery.Contracts.ProductCategory
         public string MetaDescription { get; set; }
         public string Description { get; set; }
 
-        //public List<ProductQueryModel> Products { get; set; }
+        public List<ProductQueryModel> Products { get; set; }
     }
 }
