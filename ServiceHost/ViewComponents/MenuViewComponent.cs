@@ -1,5 +1,4 @@
 ﻿using _01_LampshadeQuery;
-using _01_LampshadeQuery.Contracts.ArticleCategory;
 using _01_LampshadeQuery.Contracts.ProductCategory;
 using Microsoft.AspNetCore.Mvc;
 using System.Runtime.CompilerServices;
@@ -16,7 +15,6 @@ namespace ServiceHost.ViewComponents
 
         public IViewComponentResult Invoke()
         {
-
             return  null;
         }
     }
