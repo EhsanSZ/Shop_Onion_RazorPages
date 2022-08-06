@@ -40,14 +40,14 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategories
             return Partial("Edit", productCategory);
         }
 
-        public JsonResult OnPostEdit(EditProductCategory command)
+        public IActionResult OnPostEdit(EditProductCategory command)
         {
             if (ModelState.IsValid)
             {
+                var result = _productCategoryApplication.Edit(command);
+                return new JsonResult(result);
             }
-
-            var result = _productCategoryApplication.Edit(command);
-            return new JsonResult(result);
+            return new JsonResult("ok");
         }
     }
 }

@@ -1,10 +1,7 @@
 ﻿using _0_Framework.Domain;
 using ShopManagement.Domain.ProductAgg;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ShopManagement.Domain.ProductCategoryAgg
 {
@@ -44,6 +41,8 @@ namespace ShopManagement.Domain.ProductCategoryAgg
         {
             Name = name;
             Description = description;
+            if (!string.IsNullOrWhiteSpace(picture))
+            Picture = picture;
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
             Keywords = keywords;

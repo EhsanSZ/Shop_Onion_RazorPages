@@ -214,3 +214,7 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Pages
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Footer\Default.cshtml.g.cs
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Menu\Default.cshtml.g.cs
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Search.cshtml.g.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
