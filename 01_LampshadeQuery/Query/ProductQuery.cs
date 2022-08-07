@@ -79,7 +79,6 @@ namespace _01_LampshadeQuery.Query
 
             var product = _context.Products
                 .Include(x => x.Category)
-                .Include(x => x.ProductPictures)
                 .Select(x => new ProductQueryModel
                 {
                     Id = x.Id,
@@ -107,6 +106,7 @@ namespace _01_LampshadeQuery.Query
                 var price = productInventory.UnitPrice;
                 product.Price = price.ToMoney();
                 product.DoublePrice = price;
+
                 var discount = discounts.FirstOrDefault(x => x.ProductId == product.Id);
                 if (discount != null)
                 {
