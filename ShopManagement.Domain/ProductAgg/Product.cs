@@ -52,10 +52,8 @@ namespace ShopManagement.Domain.ProductAgg
             Code = code;
             ShortDescription = shortDescription;
             Description = description;
-
             if (!string.IsNullOrWhiteSpace(picture))
                 Picture = picture;
-
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
             CategoryId = categoryId;

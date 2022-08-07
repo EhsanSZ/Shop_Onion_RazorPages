@@ -8,13 +8,13 @@ namespace ShopManagement.Application
 {
     public class ProductPictureApplication : IProductPictureApplication
     {
-        //private readonly IFileUploader _fileUploader;
+        private readonly IFileUploader _fileUploader;
         private readonly IProductRepository _productRepository;
         private readonly IProductPictureRepository _productPictureRepository;
 
-        public ProductPictureApplication(IProductPictureRepository productPictureRepository, IProductRepository productRepository/*, IFileUploader fileUploader*/)
+        public ProductPictureApplication(IProductPictureRepository productPictureRepository, IProductRepository productRepository, IFileUploader fileUploader)
         {
-            //_fileUploader = fileUploader;
+            _fileUploader = fileUploader;
             _productRepository = productRepository;
             _productPictureRepository = productPictureRepository;
         }
@@ -26,10 +26,9 @@ namespace ShopManagement.Application
             var product = _productRepository.GetProductWithCategory(command.ProductId);
 
             var path = $"{product.Category.Slug}//{product.Slug}";
-            //var picturePath = _fileUploader.Upload(command.Picture, path);
+            var picturePath = _fileUploader.Upload(command.Picture, path);
 
-            var productPicture = new ProductPicture(command.ProductId, command.
-                Picture /*picturePath*/, command.PictureAlt, command.PictureTitle);
+            var productPicture = new ProductPicture(command.ProductId,picturePath, command.PictureAlt, command.PictureTitle);
             _productPictureRepository.Create(productPicture);
             _productPictureRepository.SaveChanges();
             return operation.Succedded();
@@ -43,9 +42,9 @@ namespace ShopManagement.Application
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
             var path = $"{productPicture.Product.Category.Slug}//{productPicture.Product.Slug}";
-            //var picturePath = _fileUploader.Upload(command.Picture, path);
+            var picturePath = _fileUploader.Upload(command.Picture, path);
 
-            productPicture.Edit(command.ProductId, command.Picture /*picturePath*/, command.PictureAlt, command.PictureTitle);
+            productPicture.Edit(command.ProductId,picturePath, command.PictureAlt, command.PictureTitle);
             _productPictureRepository.SaveChanges();
             return operation.Succedded();
         }

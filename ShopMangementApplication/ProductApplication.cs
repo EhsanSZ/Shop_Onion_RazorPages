@@ -11,11 +11,14 @@ namespace ShopManagement.Application
     {
         private readonly IProductRepository _productRepository;
         private readonly IProductCategoryRepository _productCategoryRepository;
+        private readonly IFileUploader _fileUploader;
 
-        public ProductApplication(IProductRepository productRepository, IProductCategoryRepository productCategoryRepository)
+        public ProductApplication(IProductRepository productRepository, 
+            IProductCategoryRepository productCategoryRepository,IFileUploader fileUploader)
         {
             _productRepository = productRepository;
             _productCategoryRepository = productCategoryRepository;
+            _fileUploader = fileUploader;
         }
 
         public OperationResult Create(CreateProduct command)
@@ -25,12 +28,13 @@ namespace ShopManagement.Application
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var slug = command.Slug.Slugify();
-            //var categorySlug = _productCategoryRepository.GetSlugById(command.CategoryId);
-            //var path = $"{categorySlug}//{slug}";
-            //var picturePath = _fileUploader.Upload(command.Picture, path);
+            var categorySlug = _productCategoryRepository.GetSlugById(command.CategoryId);
+
+            var path = $"{categorySlug}//{slug}";
+            var picturePath = _fileUploader.Upload(command.Picture, path);
 
             var product = new Product(command.Name, command.Code,
-                command.ShortDescription, command.Description, command.Picture,
+                command.ShortDescription, command.Description, picturePath,
                 command.PictureAlt, command.PictureTitle, command.CategoryId, slug,
                 command.Keywords, command.MetaDescription);
             _productRepository.Create(product);
@@ -50,12 +54,12 @@ namespace ShopManagement.Application
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var slug = command.Slug.Slugify();
-            //var path = $"{product.Category.Slug}/{slug}";
+            var path = $"{product.Category.Slug}/{slug}";
 
-            //var picturePath = _fileUploader.Upload(command.Picture, path);
+            var picturePath = _fileUploader.Upload(command.Picture, path);
 
             product.Edit(command.Name, command.Code,
-                command.ShortDescription, command.Description, command.Picture,
+                command.ShortDescription, command.Description, picturePath,
                 command.PictureAlt, command.PictureTitle, command.CategoryId, slug,
                 command.Keywords, command.MetaDescription);
 
