@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1PnLK/OP1XZ2d3xYK50Luimzk1Sot7FEclC79VM7aR7rIMn4XSA5GeehjFoXQXMUjzpJQMN5i3jNDmPPJ9sBKw==",
+  "dgSpecHash": "00KGGUopkNPQdYs5Oa90pGlFyTfofy4qTeSPGDX2dyrm/4WtDMekQE30X/Zs2kVTiUo/fdExhxttqlbnAVrt5A==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ServiceHost\\ServiceHost.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,7 @@
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.17\\microsoft.entityframeworkcore.design.5.0.17.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.17\\microsoft.entityframeworkcore.relational.5.0.17.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.17\\microsoft.entityframeworkcore.sqlserver.5.0.17.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.17\\microsoft.entityframeworkcore.tools.5.0.17.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
