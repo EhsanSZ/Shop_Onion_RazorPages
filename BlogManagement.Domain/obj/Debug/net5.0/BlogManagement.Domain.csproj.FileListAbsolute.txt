@@ -1,0 +1,17 @@
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\bin\Debug\net5.0\BlogManagement.Domain.deps.json
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\bin\Debug\net5.0\BlogManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\bin\Debug\net5.0\ref\BlogManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\bin\Debug\net5.0\BlogManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\bin\Debug\net5.0\0_Framework.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\bin\Debug\net5.0\0_Framework.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.csproj.AssemblyReference.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.AssemblyInfoInputs.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.AssemblyInfo.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.csproj.CoreCompileInputs.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.csproj.CopyComplete
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\obj\Debug\net5.0\ref\BlogManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Domain\obj\Debug\net5.0\BlogManagement.Domain.pdb

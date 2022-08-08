@@ -1,10 +1,6 @@
-﻿using _01_LampshadeQuery.Contracts.Article;
-using _01_LampshadeQuery.Contracts.ArticleCategory;
-using _01_LampshadeQuery.Query;
-using BlogManagement.Application;
+﻿using BlogManagement.Application;
 using BlogManagement.Application.Contracts.Article;
 using BlogManagement.Application.Contracts.ArticleCategory;
-using BlogManagement.Domain.ArticleAgg;
 using BlogManagement.Domain.ArticleCategoryAgg;
 using BlogManagement.Infrastructure.EFCore;
 using BlogManagement.Infrastructure.EFCore.Repository;
