@@ -218,3 +218,15 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.A
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\System.IO.Pipelines.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\CommentManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\CommentManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Product.cshtml.g.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Comments\Index.cshtml.g.cs

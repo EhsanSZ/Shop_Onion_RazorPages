@@ -1,5 +1,7 @@
 ﻿using _0_Framework.Application;
+using _01_LampshadeQuery.Contracts.Comment;
 using _01_LampshadeQuery.Contracts.Product;
+using CommnetManagement.Infrastructure.EFCore;
 using DiscountManagement.Infrastructure.EFCore;
 using InventoryMangement.Infrastructure.EFCore;
 using Microsoft.EntityFrameworkCore;
@@ -16,13 +18,15 @@ namespace _01_LampshadeQuery.Query
         private readonly ShopContext _context;
         private readonly InventoryContext _inventoryContext;
         private readonly DiscountContext _discountContext;
+        private readonly CommentContext _commentContext;
 
         public ProductQuery(ShopContext context, InventoryContext inventoryContext,
-            DiscountContext discountContext)
+            DiscountContext discountContext, CommentContext commentContext)
         {
             _context = context;
             _discountContext = discountContext;
             _inventoryContext = inventoryContext;
+            _commentContext = commentContext;
         }
 
 
@@ -30,11 +34,11 @@ namespace _01_LampshadeQuery.Query
         {
             var inventory = _inventoryContext.Inventory.Select
                 (x => new { x.ProductId, x.UnitPrice }).ToList();
-            
+
             var discounts = _discountContext.CustomerDiscounts
                 .Where(x => x.StartDate < DateTime.Now && x.EndDate > DateTime.Now)
                 .Select(x => new { x.DiscountRate, x.ProductId }).ToList();
-           
+
             var products = _context.Products.Include(x => x.Category)
                 .Select(product => new ProductQueryModel
                 {
@@ -66,7 +70,6 @@ namespace _01_LampshadeQuery.Query
                     }
                 }
             }
-
             return products;
         }
 
@@ -121,6 +124,19 @@ namespace _01_LampshadeQuery.Query
                 }
             }
 
+            product.Comments = _commentContext.Comments
+           .Where(x => !x.IsCanceled)
+           .Where(x => x.IsConfirmed)
+           .Where(x => x.Type == CommentType.Product)
+           .Where(x => x.OwnerRecordId == product.Id)
+           .Select(x => new CommentQueryModel
+           {
+               Id = x.Id,
+               Message = x.Message,
+               Name = x.Name,
+               CreationDate = x.CreationDate.ToFarsi()
+           }).OrderByDescending(x => x.Id).ToList();
+
             return product;
         }
 
@@ -164,7 +180,7 @@ namespace _01_LampshadeQuery.Query
                 query = query.Where(x => x.Name.Contains(value) || x.ShortDescription.Contains(value));
 
             var products = query.OrderByDescending(x => x.Id).ToList();
-            
+
 
             foreach (var product in products)
             {

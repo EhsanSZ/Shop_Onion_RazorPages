@@ -28,6 +28,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\CommnetManagement.Infrastructure.EFCore\\CommnetManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\CommnetManagement.Infrastructure.EFCore\\CommnetManagement.Infrastructure.EFCore.csproj"
+              },
               "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
                 "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
               },

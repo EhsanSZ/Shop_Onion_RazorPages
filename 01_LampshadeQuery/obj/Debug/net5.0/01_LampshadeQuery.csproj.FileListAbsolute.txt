@@ -31,3 +31,9 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\Disco
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.csproj.AssemblyReference.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\01_LampshadeQuery\bin\Debug\net5.0\CommentManagement.Domain.pdb
