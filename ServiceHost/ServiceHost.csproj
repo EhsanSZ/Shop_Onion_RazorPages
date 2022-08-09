@@ -24,4 +24,16 @@
     <Folder Include="wwwroot\ProductPictures\ehsans\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="Pages\Shared\Components\Footer\Default.cshtml" />
+    <None Include="Pages\Shared\Components\LatestArrivals\Default.cshtml" />
+    <None Include="Pages\Shared\Components\LatestArticles\Default.cshtml" />
+    <None Include="Pages\Shared\Components\Menu\Default.cshtml" />
+    <None Include="Pages\Shared\Components\ProductCategoryWithProduct\Default.cshtml" />
+    <None Include="Pages\Shared\Components\ProductCategory\Default.cshtml" />
+    <None Include="Pages\Shared\Components\Slide\Default.cshtml" />
+    <None Include="Pages\Shared\_Layout.cshtml" />
+    <None Include="Pages\Shared\_ValidationScriptsPartial.cshtml" />
+  </ItemGroup>
+
 </Project>

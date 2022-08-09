@@ -8,7 +8,6 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application\bin\Debug\net
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application\bin\Debug\net5.0\0_Framework.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application\bin\Debug\net5.0\BlogManagement.Domain.pdb
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application\obj\Debug\net5.0\BlogManagement.Application.csproj.AssemblyReference.cache
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application\obj\Debug\net5.0\BlogManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application\obj\Debug\net5.0\BlogManagement.Application.AssemblyInfoInputs.cache
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application\obj\Debug\net5.0\BlogManagement.Application.AssemblyInfo.cs

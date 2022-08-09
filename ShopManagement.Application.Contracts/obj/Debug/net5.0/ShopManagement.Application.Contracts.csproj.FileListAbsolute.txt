@@ -4,7 +4,6 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\bin
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfo.cs

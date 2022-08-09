@@ -1,4 +1,5 @@
-﻿
+﻿@model _01_LampshadeQuery.MenuModel
+@inject _0_Framework.Application.IAuthHelper AuthHelper
 
 <div class="header-area header-sticky">
     <div class="container">
@@ -41,7 +42,18 @@
                                 <li>
                                     <a href="contact.html">تماس با ما</a>
                                 </li>
-
+                                @if (AuthHelper.IsAuthenticated())
+                                {
+                                    <li>
+                                        <a asp-page="/Account" asp-page-handler="Logout">خروج</a>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li>
+                                        <a asp-page="/Account">وورد / ثبت نام</a>
+                                    </li>
+                                }
                             </ul>
                         </nav>
                     </div>
@@ -243,7 +255,7 @@
                                 </a>
                             </li>
                             <li>
-                                <i class="ion-android-mail"></i> <a href="mailto:info@yourdomain.com">e.seyedzadeh73@Gmail.com</a>
+                                <i class="ion-android-mail"></i> <a href="mailto:info@yourdomain.com">info@atriya.com</a>
                             </li>
                         </ul>
                     </div>
