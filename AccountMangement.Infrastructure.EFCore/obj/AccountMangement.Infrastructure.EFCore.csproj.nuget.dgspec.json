@@ -156,6 +156,9 @@
             "projectReferences": {
               "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\0_Framework\\0_Framework.csproj": {
                 "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\0_Framework\\0_Framework.csproj"
+              },
+              "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj": {
+                "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\AccountManagement.Application.Contracts\\AccountManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -232,6 +235,14 @@
           "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[5.0.17, )"
             }

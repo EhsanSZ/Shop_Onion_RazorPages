@@ -12,4 +12,3 @@ namespace AccountManagement.Domain.AccountAgg
         List<AccountViewModel> Search(AccountSearchModel searchModel);
     }
 }
-
