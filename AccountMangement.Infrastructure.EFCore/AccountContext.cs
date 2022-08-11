@@ -1,4 +1,5 @@
 ﻿using AccountManagement.Domain.AccountAgg;
+using AccountManagement.Domain.RoleAgg;
 using AccountMangement.Infrastructure.EFCore.Mappings;
 using Microsoft.EntityFrameworkCore;
 using System;
