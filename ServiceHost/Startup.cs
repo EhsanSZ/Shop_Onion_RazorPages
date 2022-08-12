@@ -95,19 +95,17 @@ namespace ServiceHost
                      .AllowAnyMethod()));
 
             services.AddRazorPages()
-                ;
-                //.AddMvcOptions(options => options.Filters.Add<SecurityPageFilter>())
-                //.AddRazorPagesOptions(options =>
-                //{
-                //    options.Conventions.AuthorizeAreaFolder("Administration", "/", "AdminArea");
-                //    options.Conventions.AuthorizeAreaFolder("Administration", "/Shop", "Shop");
-                //    options.Conventions.AuthorizeAreaFolder("Administration", "/Discounts", "Discount");
-                //    options.Conventions.AuthorizeAreaFolder("Administration", "/Accounts", "Account");
-                //})
-                //.AddApplicationPart(typeof(ProductController).Assembly)
-                //.AddApplicationPart(typeof(InventoryController).Assembly)
-                //.AddNewtonsoftJson();
-
+                .AddMvcOptions(options => options.Filters.Add<SecurityPageFilter>())
+                .AddRazorPagesOptions(options =>
+                {
+                    options.Conventions.AuthorizeAreaFolder("Administration", "/", "AdminArea");
+                    options.Conventions.AuthorizeAreaFolder("Administration", "/Shop", "Shop");
+                    options.Conventions.AuthorizeAreaFolder("Administration", "/Discounts", "Discount");
+                    options.Conventions.AuthorizeAreaFolder("Administration", "/Accounts", "Account");
+                })
+                .AddApplicationPart(typeof(ProductController).Assembly)
+                .AddApplicationPart(typeof(InventoryController).Assembly)
+                .AddNewtonsoftJson();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
