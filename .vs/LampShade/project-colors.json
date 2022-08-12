@@ -170,7 +170,12 @@
       "ProjectGuid": "77f5b519-24bd-4d5b-874f-29e8103f3f51",
       "DisplayName": "AM.Domain",
       "ColorIndex": 0
+    },
+    "24207fa3-7f27-4418-827f-0851731d9ee0": {
+      "ProjectGuid": "24207fa3-7f27-4418-827f-0851731d9ee0",
+      "DisplayName": "AccountManagement.Configuration",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

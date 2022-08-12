@@ -16,3 +16,4 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Application\obj\Debug\
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Application\obj\Debug\net5.0\ref\CommentManagement.Application.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Application\obj\Debug\net5.0\CommentManagement.Application.csproj.AssemblyReference.cache

@@ -6,6 +6,7 @@ using System.Linq;
 using System.Xml.Linq;
 using Microsoft.EntityFrameworkCore;
 using _0_Framework.Infrastracture;
+using _0_Framework.Infrastructure;
 
 namespace AccountMangement.Infrastructure.EFCore.Repository
 {
