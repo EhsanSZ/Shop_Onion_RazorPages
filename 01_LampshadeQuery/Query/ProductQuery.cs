@@ -215,10 +215,8 @@ namespace _01_LampshadeQuery.Query
                 var itemInventory = inventory.Find(x => x.ProductId == cartItem.Id);
                 cartItem.IsInStock = itemInventory.CalculateCurrentCount() >= cartItem.Count;
             }
-
             return cartItems;
         }
-
     }
 
 }
