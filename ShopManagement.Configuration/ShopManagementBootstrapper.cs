@@ -50,6 +50,8 @@ namespace ShopManagement.Configuration
 
             services.AddTransient<ICartCalculatorService, CartCalculatorService>();
 
+            services.AddSingleton<ICartService, CartService>();
+
             services.AddTransient<IPermissionExposer, ShopPermissionExposer>();
 
             services.AddDbContext<ShopContext>(x => x.UseSqlServer(connectionString));
