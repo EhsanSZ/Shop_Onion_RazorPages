@@ -26,7 +26,6 @@ namespace ShopManagement.Application.Contracts
                     "در این مدل، ابتدا سفارش ثبت شده و سپس وجه به صورت نقدی در زمان تحویل کالا، دریافت خواهد شد.")
             };
         }
-
         public static PaymentMethod GetBy(long id)
         {
             return GetList().FirstOrDefault(x => x.Id == id);
