@@ -1,6 +1,7 @@
 ﻿using _0_Framework.Application;
 using _0_Framework.Infrastracture;
 using AccountMangement.Infrastructure.EFCore;
+using ShopManagement.Application.Contracts;
 using ShopManagement.Application.Contracts.Order;
 using ShopManagement.Domain.OrderAgg;
 using System.Collections.Generic;
