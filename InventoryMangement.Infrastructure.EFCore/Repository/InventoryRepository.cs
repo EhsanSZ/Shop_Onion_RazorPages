@@ -1,5 +1,6 @@
 ﻿using _0_Framework.Application;
 using _0_Framework.Infrastracture;
+using AccountMangement.Infrastructure.EFCore;
 using InventoryManagement.Application.Contract.Inventory;
 using InventoryManagement.Domain.InventoryAgg;
 using ShopManagement.Infrastructure.EFCore;
@@ -10,14 +11,16 @@ namespace InventoryMangement.Infrastructure.EFCore.Repository
 {
     public class InventoryRepository : RepositoryBase<long, Inventory>, IInventoryRepository
     {
+        private readonly AccountContext _accountContext;
         private readonly ShopContext _shopContext;
-        private readonly InventoryContext _inventoryContext;
+        private readonly InventoryContext _inventoryContext; 
 
-        public InventoryRepository(InventoryContext inventoryContext, ShopContext shopContext)
-            :base(inventoryContext)
+        public InventoryRepository(InventoryContext inventoryContext, ShopContext shopContext,
+            AccountContext accountContext):base(inventoryContext)
         {
             _shopContext = shopContext;
             _inventoryContext = inventoryContext;
+            _accountContext = accountContext;
         }
 
         public Inventory GetBy(long productId)
@@ -65,6 +68,7 @@ namespace InventoryMangement.Infrastructure.EFCore.Repository
 
         public List<InventoryOperationViewModel> GetOperationLog(long inventoryId)
         {
+            var accounts = _accountContext.Accounts.Select(x => new { x.Id, x.Fullname }).ToList();
             var inventory = _inventoryContext.Inventory.FirstOrDefault(x => x.Id == inventoryId);
 
             var operations = inventory.Operations.Select(x => new InventoryOperationViewModel
@@ -77,8 +81,12 @@ namespace InventoryMangement.Infrastructure.EFCore.Repository
                 OperationDate = x.OperationDate.ToFarsi(),
                 OperatorId = x.OperatorId,
                 OrderId = x.OrderId ,
-                Operator = "مدیر سیستم"
             }).OrderByDescending(x => x.Id).ToList();
+
+            foreach (var operation in operations)
+            {
+                operation.Operator = accounts.FirstOrDefault(x => x.Id == operation.OperatorId)?.Fullname;
+            }
 
             return operations;
         }

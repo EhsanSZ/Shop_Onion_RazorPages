@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Fy3UfyWZpAVE3L9UrqoGbTdSZ60RD2sF8viHZJqIXc/ef3nIF9B2FPL1pYxdguYN+RsL9Nje+5mhvBnudUHH0w==",
+  "dgSpecHash": "hNlWDveF+k/Up7ZyCW8r7fmUhujxmkZoXzg5QzmH+9eOrB7BKH/s1bkiAmlICIhsDP1Fo7nwB0vt/ot/OITQeg==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopMangementApplication\\ShopMangementApplication.csproj",
   "expectedPackageFiles": [
@@ -39,7 +39,6 @@
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
-    "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
