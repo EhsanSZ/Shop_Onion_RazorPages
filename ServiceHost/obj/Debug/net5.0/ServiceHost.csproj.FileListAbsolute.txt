@@ -268,3 +268,9 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\AccountMana
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\AccountManagement.Domain.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\Nancy.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\bin\Debug\net5.0\RestSharp.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Cart.cshtml.g.cs

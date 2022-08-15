@@ -50,3 +50,9 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\n
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Domain.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\AccountManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\AccountManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb

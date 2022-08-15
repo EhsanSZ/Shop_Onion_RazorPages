@@ -27,3 +27,9 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Confi
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Application.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Application.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\AccountManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\AccountManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb

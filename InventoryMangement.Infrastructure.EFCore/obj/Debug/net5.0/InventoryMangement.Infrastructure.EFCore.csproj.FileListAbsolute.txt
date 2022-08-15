@@ -26,3 +26,9 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryMangement.Infrastructure.EFCore
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryMangement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryMangement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryMangement.Infrastructure.EFCore\obj\Debug\net5.0\InventoryMangement.Infrastructure.EFCore.csproj.CopyComplete
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryMangement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryMangement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryMangement.Infrastructure.EFCore\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryMangement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryMangement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryMangement.Infrastructure.EFCore\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb

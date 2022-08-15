@@ -129,6 +129,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.1, )"
             }
           },
           "imports": [
@@ -2133,6 +2137,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj"
+              },
               "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
                 "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
               }

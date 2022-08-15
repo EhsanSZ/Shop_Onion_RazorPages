@@ -1,4 +1,5 @@
 using _0_Framework.Application;
+using _0_Framework.Application.ZarinPal;
 using _0_Framework.Infrastructure;
 using AccountManagement.Configuration;
 using BlogManagement.Infrastructure.Configuration;
@@ -49,6 +50,7 @@ namespace ServiceHost
             services.AddSingleton<IPasswordHasher, PasswordHasher>();
             services.AddTransient<IAuthHelper, AuthHelper>();
             services.AddTransient<IFileUploader, FileUploader>();
+            services.AddTransient<IZarinPalFactory, ZarinPalFactory>();
 
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
                 .AddCookie(CookieAuthenticationDefaults.AuthenticationScheme, o =>

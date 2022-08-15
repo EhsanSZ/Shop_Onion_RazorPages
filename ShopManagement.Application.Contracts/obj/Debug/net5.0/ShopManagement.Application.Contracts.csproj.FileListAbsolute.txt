@@ -12,3 +12,4 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\obj
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
