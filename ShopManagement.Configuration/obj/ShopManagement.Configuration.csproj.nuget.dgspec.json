@@ -129,6 +129,10 @@
             "RestSharp": {
               "target": "Package",
               "version": "[108.0.1, )"
+            },
+            "System.Runtime.Serialization.Json": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

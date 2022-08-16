@@ -129,6 +129,10 @@
             "RestSharp": {
               "target": "Package",
               "version": "[108.0.1, )"
+            },
+            "System.Runtime.Serialization.Json": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
@@ -795,6 +799,70 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\BlogManagement.Presentation.Api\\BlogManagement.Presentation.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\BlogManagement.Presentation.Api\\BlogManagement.Presentation.Api.csproj",
+        "projectName": "BlogManagement.Presentation.Api",
+        "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\BlogManagement.Presentation.Api\\BlogManagement.Presentation.Api.csproj",
+        "packagesPath": "C:\\Users\\Ehsan\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\BlogManagement.Presentation.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
+                "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
             }
           },
           "imports": [
@@ -1684,6 +1752,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
+                "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj"
+              },
               "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj": {
                 "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj"
               },
@@ -1712,6 +1783,73 @@
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryManagement.Presentation\\InventoryManagement.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryManagement.Presentation\\InventoryManagement.Presentation.csproj",
+        "projectName": "InventoryManagement.Presentation",
+        "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryManagement.Presentation\\InventoryManagement.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Ehsan\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryManagement.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
+                "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj"
+              },
+              "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj": {
+                "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryManagement.Application.Contract\\InventoryManagement.Application.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
             }
           },
           "imports": [
@@ -1840,6 +1978,9 @@
               "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\BlogManagement.Infrastructure.Configuration\\BlogManagement.Infrastructure.Configuration.csproj": {
                 "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\BlogManagement.Infrastructure.Configuration\\BlogManagement.Infrastructure.Configuration.csproj"
               },
+              "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\BlogManagement.Presentation.Api\\BlogManagement.Presentation.Api.csproj": {
+                "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\BlogManagement.Presentation.Api\\BlogManagement.Presentation.Api.csproj"
+              },
               "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\CommentManagement.Infrastructure.Configuration\\CommentManagement.Infrastructure.Configuration.csproj": {
                 "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\CommentManagement.Infrastructure.Configuration\\CommentManagement.Infrastructure.Configuration.csproj"
               },
@@ -1849,8 +1990,14 @@
               "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryManagement.Infrastructure.Configuration\\InventoryManagement.Infrastructure.Configuration.csproj": {
                 "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryManagement.Infrastructure.Configuration\\InventoryManagement.Infrastructure.Configuration.csproj"
               },
+              "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryManagement.Presentation\\InventoryManagement.Presentation.csproj": {
+                "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryManagement.Presentation\\InventoryManagement.Presentation.csproj"
+              },
               "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
                 "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj"
+              },
+              "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopManagement.Presentation.Api\\ShopManagement.Presentation.Api.csproj": {
+                "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopManagement.Presentation.Api\\ShopManagement.Presentation.Api.csproj"
               }
             }
           }
@@ -1865,6 +2012,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -1878,6 +2029,10 @@
             "Nancy": {
               "target": "Package",
               "version": "[2.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
@@ -2295,6 +2450,70 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopManagement.Presentation.Api\\ShopManagement.Presentation.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopManagement.Presentation.Api\\ShopManagement.Presentation.Api.csproj",
+        "projectName": "ShopManagement.Presentation.Api",
+        "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopManagement.Presentation.Api\\ShopManagement.Presentation.Api.csproj",
+        "packagesPath": "C:\\Users\\Ehsan\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopManagement.Presentation.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ehsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj": {
+                "projectPath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\01_LampshadeQuery\\01_LampshadeQuery.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

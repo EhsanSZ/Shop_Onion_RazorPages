@@ -1632,7 +1632,7 @@
           "System.Runtime": "4.3.0"
         },
         "compile": {
-          "ref/netstandard1.0/_._": {}
+          "ref/netstandard1.0/System.Runtime.Serialization.Json.dll": {}
         },
         "runtime": {
           "lib/netstandard1.3/System.Runtime.Serialization.Json.dll": {}
@@ -2052,7 +2052,8 @@
           "Microsoft.AspNetCore.Http.Features": "5.0.17",
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
           "Microsoft.EntityFrameworkCore": "5.0.17",
-          "RestSharp": "108.0.1"
+          "RestSharp": "108.0.1",
+          "System.Runtime.Serialization.Json": "4.3.0"
         },
         "compile": {
           "bin/placeholder/0_Framework.dll": {}

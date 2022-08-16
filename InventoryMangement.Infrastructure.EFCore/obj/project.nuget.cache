@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bgiVJO0yvAyLDcQnaTt0X/lwOWMMsxn7LaI97xJ0R926rTHEP55wMwMBHbZ/uiGQNIenu9bqsiluC43IBzrE/Q==",
+  "dgSpecHash": "kqEwDn2ThcZB25HrssOZLHNL7g2dTuwbP9KrJ5LwUAqZqPM7de1MQYx8p2di9aWU0o86/8WoHxKNh1Zd80j0sw==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryMangement.Infrastructure.EFCore\\InventoryMangement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [

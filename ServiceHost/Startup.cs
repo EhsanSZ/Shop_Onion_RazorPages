@@ -3,9 +3,11 @@ using _0_Framework.Application.ZarinPal;
 using _0_Framework.Infrastructure;
 using AccountManagement.Configuration;
 using BlogManagement.Infrastructure.Configuration;
+using BlogManagement.Presentation.Api.Controllers;
 using CommentManagement.Infrastructure.Configuration;
 using DiscountManagement.Configuration;
 using InventoryManagement.Infrastructure.Configuration;
+using InventoryManagement.Presentation.Api;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -15,12 +17,12 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ShopManagement.Configuration;
+using ShopManagement.Presentation.Api;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
-using System.Threading.Tasks;
 
 namespace ServiceHost
 {
@@ -107,7 +109,9 @@ namespace ServiceHost
                 })
                 .AddApplicationPart(typeof(ProductController).Assembly)
                 .AddApplicationPart(typeof(InventoryController).Assembly)
+                .AddApplicationPart(typeof(ArticleController).Assembly)
                 .AddNewtonsoftJson();
+
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
