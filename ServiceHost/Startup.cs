@@ -105,10 +105,9 @@ namespace ServiceHost
                     options.Conventions.AuthorizeAreaFolder("Administration", "/Discounts", "Discount");
                     options.Conventions.AuthorizeAreaFolder("Administration", "/Accounts", "Account");
                 })
-                ;
-                //.AddApplicationPart(typeof(ProductController).Assembly)
-                //.AddApplicationPart(typeof(InventoryController).Assembly)
-                //.AddNewtonsoftJson();
+                .AddApplicationPart(typeof(ProductController).Assembly)
+                .AddApplicationPart(typeof(InventoryController).Assembly)
+                .AddNewtonsoftJson();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

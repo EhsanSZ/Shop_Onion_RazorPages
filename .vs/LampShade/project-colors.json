@@ -175,7 +175,17 @@
       "ProjectGuid": "24207fa3-7f27-4418-827f-0851731d9ee0",
       "DisplayName": "AccountManagement.Configuration",
       "ColorIndex": 1
+    },
+    "54bb6495-7891-4670-b493-e37256cca582": {
+      "ProjectGuid": "54bb6495-7891-4670-b493-e37256cca582",
+      "DisplayName": "ShopManagement.Infrastructure.AccountAcl",
+      "ColorIndex": 2
+    },
+    "ba7c3174-1e9c-4061-a246-21bf14923caa": {
+      "ProjectGuid": "ba7c3174-1e9c-4061-a246-21bf14923caa",
+      "DisplayName": "ShopManagement.Infrastructure.InventoryAcl",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
