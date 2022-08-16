@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0Dw4sO7j5JumhSXovauXm3G6vPd1OXSJ4ZocajfB0p8NTkOiDucNR+hQXViH21kC9Wcu8YMPFZQEpv//gHMQjA==",
+  "dgSpecHash": "OwB8Ylf/nzjjrL4EjSZIz3JzNIpQz/xQt94seJm0be44Z2S1+5NekwiDccWhSKkbdNaRzVhVDju+9qqfECtB4g==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ServiceHost\\ServiceHost.csproj",
   "expectedPackageFiles": [
@@ -87,7 +87,7 @@
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\nancy\\2.0.0\\nancy.2.0.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

@@ -55,7 +55,6 @@ namespace ShopManagement.Configuration
             services.AddTransient<IShopAccountAcl, ShopAccountAcl>();
 
             services.AddTransient<ICartCalculatorService, CartCalculatorService>();
-
             services.AddSingleton<ICartService, CartService>();
 
             services.AddTransient<IPermissionExposer, ShopPermissionExposer>();

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "B2e7Bm6tb6kjr4M3OsIECmWDrqnyqtfzP+QkZLa22qBibEOODwQBfNTrCrqvfuHy9CEK7oGmosByoFw/pywVhA==",
+  "dgSpecHash": "yLhmF3pfAWLx/t43P05hVVrVaadvcNS/XO6I8pZOXQCdYRN/YyYiwK2WGB18gz6i3WTRjGrAxFn79xZEaglkSw==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\0_Framework\\0_Framework.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,7 @@
     "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\smsirrestfulnetcore\\1.1.4\\smsirrestfulnetcore.1.1.4.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
