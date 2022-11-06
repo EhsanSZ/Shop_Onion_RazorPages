@@ -2,7 +2,6 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\bin
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.runtimeconfig.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.runtimeconfig.dev.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.dll
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\ref\BlogManagement.Infrastructure.EFCore.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
@@ -20,3 +19,4 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\obj
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\BlogManagement.Infrastructure.EFCore.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\BlogManagement.Infrastructure.EFCore.genruntimeconfig.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Infrastructure.EFCore\obj\Debug\net5.0\refint\BlogManagement.Infrastructure.EFCore.dll

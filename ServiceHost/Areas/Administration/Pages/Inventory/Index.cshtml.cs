@@ -11,7 +11,6 @@ using System.Collections.Generic;
 
 namespace ServiceHost.Areas.Administration.Pages.Inventory
 {
-    [Authorize(Roles = Roles.Administrator)]
     public class IndexModel : PageModel
     {
         [TempData] public string Message { get; set; }

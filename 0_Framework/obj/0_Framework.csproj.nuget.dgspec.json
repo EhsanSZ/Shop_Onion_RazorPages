@@ -64,9 +64,9 @@
               "target": "Package",
               "version": "[5.0.17, )"
             },
-            "MimeKit": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[3.3.0, )"
+              "version": "[13.0.1, )"
             },
             "RestSharp": {
               "target": "Package",
@@ -87,7 +87,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -96,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

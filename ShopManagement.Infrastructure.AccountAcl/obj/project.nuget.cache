@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PS+zDCAhs1B0+g7vAj7fZfSZY2/z3wc3kPrG3RIi6vsdPwGY+Pc/CouVhV6N/j7juMqLncSO6YzdlbB5icDDiw==",
+  "dgSpecHash": "iJtoyRKsGGkaWjlC3Udbht9FqGwuoYm8WDtS3ZnYpsZZ5fuxJ2G0xNZF53wqwZ3yt0P1F4Q2B1euvXNmwFhx5A==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopManagement.Infrastructure.AccountAcl\\ShopManagement.Infrastructure.AccountAcl.csproj",
   "expectedPackageFiles": [
@@ -45,7 +45,7 @@
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\mimekit\\3.3.0\\mimekit.3.3.0.nupkg.sha512",
-    "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",

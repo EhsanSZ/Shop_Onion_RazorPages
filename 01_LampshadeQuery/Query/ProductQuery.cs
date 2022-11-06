@@ -76,7 +76,8 @@ namespace _01_LampshadeQuery.Query
 
         public ProductQueryModel GetProductDetails(string slug)
         {
-            var inventory = _inventoryContext.Inventory.Select(x => new { x.ProductId, x.UnitPrice, x.InStock }).ToList();
+            var inventory = _inventoryContext.Inventory
+                .Select(x => new { x.ProductId, x.UnitPrice, x.InStock }).ToList();
 
             var discounts = _discountContext.CustomerDiscounts
                 .Where(x => x.StartDate < DateTime.Now && x.EndDate > DateTime.Now)
@@ -113,6 +114,7 @@ namespace _01_LampshadeQuery.Query
                 var price = productInventory.UnitPrice;
                 product.Price = price.ToMoney();
                 product.DoublePrice = price;
+
                 var discount = discounts.FirstOrDefault(x => x.ProductId == product.Id);
                 if (discount != null)
                 {

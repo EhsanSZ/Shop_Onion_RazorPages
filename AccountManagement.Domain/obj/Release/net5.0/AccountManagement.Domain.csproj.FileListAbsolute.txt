@@ -1,0 +1,17 @@
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Release\net5.0\AccountManagement.Domain.deps.json
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Release\net5.0\AccountManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Release\net5.0\ref\AccountManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Release\net5.0\AccountManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Release\net5.0\0_Framework.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Release\net5.0\AccountManagement.Application.Contracts.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Release\net5.0\0_Framework.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Release\net5.0\AccountManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Release\net5.0\AccountManagement.Domain.csproj.AssemblyReference.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Release\net5.0\AccountManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Release\net5.0\AccountManagement.Domain.AssemblyInfoInputs.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Release\net5.0\AccountManagement.Domain.AssemblyInfo.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Release\net5.0\AccountManagement.Domain.csproj.CoreCompileInputs.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Release\net5.0\AccountManagement.Domain.csproj.CopyComplete
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Release\net5.0\AccountManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Release\net5.0\ref\AccountManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Release\net5.0\AccountManagement.Domain.pdb

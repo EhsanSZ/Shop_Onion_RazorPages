@@ -1,6 +1,5 @@
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.deps.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.dll
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Application\bin\Debug\net5.0\ref\DiscountManagement.Application.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Application\bin\Debug\net5.0\0_Framework.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.Contracts.dll
@@ -19,3 +18,4 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Application\obj\Debug
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Application\obj\Debug\net5.0\ref\DiscountManagement.Application.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Application\obj\Debug\net5.0\refint\DiscountManagement.Application.dll

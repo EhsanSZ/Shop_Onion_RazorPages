@@ -2,7 +2,6 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.runtimeconfig.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.runtimeconfig.dev.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.dll
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\bin\Debug\net5.0\ref\CommnetManagement.Infrastructure.EFCore.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\bin\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
@@ -20,3 +19,4 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\CommnetManagement.Infrastructure.EFCore.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\obj\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\obj\Debug\net5.0\CommnetManagement.Infrastructure.EFCore.genruntimeconfig.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommnetManagement.Infrastructure.EFCore\obj\Debug\net5.0\refint\CommnetManagement.Infrastructure.EFCore.dll

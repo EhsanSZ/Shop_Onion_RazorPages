@@ -56,6 +56,12 @@ namespace ServiceHost
             services.AddTransient<IZarinPalFactory, ZarinPalFactory>();
             services.AddTransient<ISmsService, SmsService>();
 
+            services.Configure<CookiePolicyOptions>(options =>
+            {
+                options.CheckConsentNeeded = context => true;
+                options.MinimumSameSitePolicy = SameSiteMode.Lax;
+            });
+
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
                 .AddCookie(CookieAuthenticationDefaults.AuthenticationScheme, o =>
                 {
@@ -64,20 +70,7 @@ namespace ServiceHost
                     o.AccessDeniedPath = new PathString("/AccessDenied");
                 });
 
-            services.AddAuthorization(options =>
-            {
-                options.AddPolicy("AdminArea",
-                    builder => builder.RequireRole(new List<string> { Roles.Administrator, Roles.ContentUploader }));
 
-                options.AddPolicy("Shop",
-                    builder => builder.RequireRole(new List<string> { Roles.Administrator }));
-
-                options.AddPolicy("Discount",
-                    builder => builder.RequireRole(new List<string> { Roles.Administrator }));
-
-                options.AddPolicy("Account",
-                    builder => builder.RequireRole(new List<string> { Roles.Administrator }));
-            });
 
             services.AddAuthorization(options =>
             {
@@ -139,6 +132,8 @@ namespace ServiceHost
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors("MyPolicy");
 
             app.UseEndpoints(endpoints =>
             {

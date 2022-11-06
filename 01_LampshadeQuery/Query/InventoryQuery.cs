@@ -37,4 +37,6 @@ namespace _01_LampshadeQuery.Query
             };
         }
     }
+
+
 }

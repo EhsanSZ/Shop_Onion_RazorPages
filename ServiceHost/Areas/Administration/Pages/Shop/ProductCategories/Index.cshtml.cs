@@ -19,7 +19,7 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.ProductCategories
             _productCategoryApplication = productCategoryApplication;
         }
 
-        [NeedsPermission(ShopPermissions.ListProductCategories)]
+
         public void OnGet(ProductCategorySearchModel searchModel)
         {
             ProductCategories = _productCategoryApplication.Search(searchModel);

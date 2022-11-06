@@ -24,7 +24,7 @@ namespace ShopManagement.Domain.ProductAgg
 
         protected Product()
         {
-          ProductPictures = new List<ProductPicture>();
+            ProductPictures = new List<ProductPicture>();
         }
 
         public Product(string name, string code, string shortDescription, string description,
@@ -45,8 +45,7 @@ namespace ShopManagement.Domain.ProductAgg
         }
 
         public void Edit(string name, string code, string shortDescription, string description, string picture,
-            string pictureAlt, string pictureTitle, long categoryId, string slug,
-            string keywords, string metaDescription)
+        string pictureAlt, string pictureTitle, long categoryId, string slug, string keywords, string metaDescription)
         {
             Name = name;
             Code = code;
@@ -61,6 +60,7 @@ namespace ShopManagement.Domain.ProductAgg
             Keywords = keywords;
             MetaDescription = metaDescription;
         }
+
 
     }
 }

@@ -28,7 +28,8 @@ namespace ServiceHost.Areas.Administration.Pages.Shop.Products
 
         public void OnGet(ProductSearchModel searchModel)
         {
-            ProductCategories = new SelectList(_productCategoryApplication.GetProductCategories(), "Id", "Name");
+            ProductCategories = new SelectList(_productCategoryApplication
+                .GetProductCategories(), "Id", "Name");
             Products = _productApplication.Search(searchModel);
         }
 

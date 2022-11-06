@@ -1,0 +1,17 @@
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\bin\Release\net5.0\CommentManagement.Domain.deps.json
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\bin\Release\net5.0\CommentManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\bin\Release\net5.0\ref\CommentManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\bin\Release\net5.0\CommentManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\bin\Release\net5.0\0_Framework.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\bin\Release\net5.0\CommentManagement.Application.Contracts.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\bin\Release\net5.0\0_Framework.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\bin\Release\net5.0\CommentManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\obj\Release\net5.0\CommentManagement.Domain.csproj.AssemblyReference.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\obj\Release\net5.0\CommentManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\obj\Release\net5.0\CommentManagement.Domain.AssemblyInfoInputs.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\obj\Release\net5.0\CommentManagement.Domain.AssemblyInfo.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\obj\Release\net5.0\CommentManagement.Domain.csproj.CoreCompileInputs.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\obj\Release\net5.0\CommentManagement.Domain.csproj.CopyComplete
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\obj\Release\net5.0\CommentManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\obj\Release\net5.0\ref\CommentManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Domain\obj\Release\net5.0\CommentManagement.Domain.pdb

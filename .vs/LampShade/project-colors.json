@@ -185,7 +185,22 @@
       "ProjectGuid": "ba7c3174-1e9c-4061-a246-21bf14923caa",
       "DisplayName": "ShopManagement.Infrastructure.InventoryAcl",
       "ColorIndex": 3
+    },
+    "cd46df58-13fa-41a2-b6a3-d1dd5beb83e1": {
+      "ProjectGuid": "cd46df58-13fa-41a2-b6a3-d1dd5beb83e1",
+      "DisplayName": "ShopManagement.Presentation.Api",
+      "ColorIndex": 4
+    },
+    "c3aec37e-27e1-49ef-9400-eecf19070d47": {
+      "ProjectGuid": "c3aec37e-27e1-49ef-9400-eecf19070d47",
+      "DisplayName": "InventoryManagement.Presentation",
+      "ColorIndex": 5
+    },
+    "5124e543-96ef-47e4-9c2f-7e83cd780bbe": {
+      "ProjectGuid": "5124e543-96ef-47e4-9c2f-7e83cd780bbe",
+      "DisplayName": "BlogManagement.Presentation.Api",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 7
 }

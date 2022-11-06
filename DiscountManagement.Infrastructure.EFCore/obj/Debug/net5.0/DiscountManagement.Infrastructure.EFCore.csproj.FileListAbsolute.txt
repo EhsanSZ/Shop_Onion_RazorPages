@@ -2,9 +2,11 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.runtimeconfig.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.runtimeconfig.dev.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ref\DiscountManagement.Infrastructure.EFCore.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Domain.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Application.Contracts.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Domain.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
@@ -13,6 +15,9 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Domain.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\DiscountManagement.Application.Contracts.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.pdb
@@ -26,9 +31,4 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\DiscountManagement.Infrastructure.EFCore.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.genruntimeconfig.cache
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Domain.dll
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.dll
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountManagement.Domain.pdb
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\DiscountManagement.Infrastructure.EFCore\obj\Debug\net5.0\refint\DiscountManagement.Infrastructure.EFCore.dll

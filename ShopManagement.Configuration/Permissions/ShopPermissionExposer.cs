@@ -12,8 +12,6 @@ namespace ShopManagement.Configuration.Permissions
                 {
                     "Product", new List<PermissionDto>
                     {
-                        new PermissionDto(ShopPermissions.ListProducts, "ListProducts"),
-                        new PermissionDto(ShopPermissions.SearchProducts, "SearchProducts"),
                         new PermissionDto(ShopPermissions.CreateProduct, "CreateProduct"),
                         new PermissionDto(ShopPermissions.EditProduct, "EditProduct"),
                     }
@@ -21,8 +19,6 @@ namespace ShopManagement.Configuration.Permissions
                 {
                     "ProductCategory", new List<PermissionDto>
                     {
-                        new PermissionDto(ShopPermissions.SearchProductCategories, "SearchProductCategories"),
-                        new PermissionDto(ShopPermissions.ListProductCategories, "ListProductCategories"),
                         new PermissionDto(ShopPermissions.CreateProductCategory, "CreateProductCategory"),
                         new PermissionDto(ShopPermissions.EditProductCategory, "EditProductCategory"),
                     }

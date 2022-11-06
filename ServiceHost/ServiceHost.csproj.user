@@ -5,6 +5,7 @@
     <Area_SelectedScaffolderCategoryPath>root/Common</Area_SelectedScaffolderCategoryPath>
     <WebStackScaffolding_DependencyDialogWidth>650</WebStackScaffolding_DependencyDialogWidth>
     <ActiveDebugProfile>ServiceHost</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>D:\MyProje\ASP.Net\Shop_Razor\LampShade\ServiceHost\Properties\PublishProfiles\FolderProfile1.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>

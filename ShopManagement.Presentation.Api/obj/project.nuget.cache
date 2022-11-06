@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3DgxlD8Y8I7dTIAngyffc9MaQCHZvYJiPB01yckiVurCiTy5X+i4p00KoUcsnypvqBBwg6VScKaec1UFNGMA0A==",
+  "dgSpecHash": "YXMnU0uxnpfByf2Gzt/KqBwXunH8+hZDbPZYoJXWrwbrl8AyI3nmnOfdSoirO4Mqcd2hGksFYiJZgEXR2RlRAQ==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\ShopManagement.Presentation.Api\\ShopManagement.Presentation.Api.csproj",
   "expectedPackageFiles": [
@@ -66,7 +66,7 @@
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\mimekit\\3.3.0\\mimekit.3.3.0.nupkg.sha512",
-    "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",

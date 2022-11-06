@@ -1,6 +1,5 @@
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Debug\net5.0\AccountManagement.Domain.deps.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Debug\net5.0\AccountManagement.Domain.dll
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Debug\net5.0\ref\AccountManagement.Domain.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Debug\net5.0\AccountManagement.Domain.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Debug\net5.0\0_Framework.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
@@ -15,3 +14,4 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Debug\net5.
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Debug\net5.0\AccountManagement.Domain.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Debug\net5.0\ref\AccountManagement.Domain.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Debug\net5.0\AccountManagement.Domain.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\AccountManagement.Domain\obj\Debug\net5.0\refint\AccountManagement.Domain.dll

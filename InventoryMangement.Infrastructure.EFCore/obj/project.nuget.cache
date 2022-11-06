@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eiuPhNjGXNbPpEp7O2qiQBW8rNimIO9kGO8g/SrGOOVKfkwS0ZR9Q4721JW+Yi8NlV/hhj98XICyJeqsbCCWzw==",
+  "dgSpecHash": "nGHRGyOD0Yy0fP6APLOoz9OZjGEq9U8HPc4ODqS5EP/1mkc9prHNE4hQoCEFBLvFmoQTTGGy+48A1Yw46xwaZw==",
   "success": true,
   "projectFilePath": "D:\\MyProje\\ASP.Net\\Shop_Razor\\LampShade\\InventoryMangement.Infrastructure.EFCore\\InventoryMangement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
@@ -59,7 +59,7 @@
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\mimekit\\3.3.0\\mimekit.3.3.0.nupkg.sha512",
-    "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\Ehsan\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",

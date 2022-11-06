@@ -1,0 +1,17 @@
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Release\net5.0\InventoryManagement.Application.Contract.deps.json
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Release\net5.0\InventoryManagement.Application.Contract.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Release\net5.0\ref\InventoryManagement.Application.Contract.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Release\net5.0\InventoryManagement.Application.Contract.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Release\net5.0\0_Framework.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Release\net5.0\ShopManagement.Application.Contracts.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Release\net5.0\0_Framework.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Release\net5.0\ShopManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Release\net5.0\InventoryManagement.Application.Contract.csproj.AssemblyReference.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Release\net5.0\InventoryManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Release\net5.0\InventoryManagement.Application.Contract.AssemblyInfoInputs.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Release\net5.0\InventoryManagement.Application.Contract.AssemblyInfo.cs
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Release\net5.0\InventoryManagement.Application.Contract.csproj.CoreCompileInputs.cache
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Release\net5.0\InventoryManagement.Application.Contract.csproj.CopyComplete
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Release\net5.0\InventoryManagement.Application.Contract.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Release\net5.0\ref\InventoryManagement.Application.Contract.dll
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Release\net5.0\InventoryManagement.Application.Contract.pdb

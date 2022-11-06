@@ -18,7 +18,8 @@ namespace _01_LampshadeQuery.Query
         private readonly InventoryContext _inventoryContext;
         private readonly DiscountContext _discountContext;
 
-        public ProductCategoryQuery(ShopContext context, InventoryContext inventoryContext, DiscountContext discountContext)
+        public ProductCategoryQuery(ShopContext context, InventoryContext inventoryContext,
+            DiscountContext discountContext)
         {
             _context = context;
             _discountContext = discountContext;

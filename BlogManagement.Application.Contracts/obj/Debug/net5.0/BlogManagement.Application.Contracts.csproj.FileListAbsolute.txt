@@ -1,6 +1,5 @@
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application.Contracts\bin\Debug\net5.0\BlogManagement.Application.Contracts.deps.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application.Contracts\bin\Debug\net5.0\BlogManagement.Application.Contracts.dll
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application.Contracts\bin\Debug\net5.0\ref\BlogManagement.Application.Contracts.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application.Contracts\bin\Debug\net5.0\BlogManagement.Application.Contracts.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
@@ -13,3 +12,4 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application.Contracts\obj
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application.Contracts\obj\Debug\net5.0\BlogManagement.Application.Contracts.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application.Contracts\obj\Debug\net5.0\ref\BlogManagement.Application.Contracts.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application.Contracts\obj\Debug\net5.0\BlogManagement.Application.Contracts.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\BlogManagement.Application.Contracts\obj\Debug\net5.0\refint\BlogManagement.Application.Contracts.dll

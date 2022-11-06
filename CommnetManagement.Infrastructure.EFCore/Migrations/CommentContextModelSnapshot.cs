@@ -50,9 +50,6 @@ namespace CommnetManagement.Infrastructure.EFCore.Migrations
                     b.Property<long>("OwnerRecordId")
                         .HasColumnType("bigint");
 
-                    b.Property<long>("ParentId")
-                        .HasColumnType("bigint");
-
                     b.Property<int>("Type")
                         .HasColumnType("int");
 
@@ -62,20 +59,7 @@ namespace CommnetManagement.Infrastructure.EFCore.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("ParentId");
-
                     b.ToTable("Comments");
-                });
-
-            modelBuilder.Entity("CommentManagement.Domain.CommentAgg.Comment", b =>
-                {
-                    b.HasOne("CommentManagement.Domain.CommentAgg.Comment", "Parent")
-                        .WithMany()
-                        .HasForeignKey("ParentId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Parent");
                 });
 #pragma warning restore 612, 618
         }

@@ -1,6 +1,5 @@
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.deps.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.dll
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Debug\net5.0\ref\InventoryManagement.Application.Contract.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Debug\net5.0\InventoryManagement.Application.Contract.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Debug\net5.0\0_Framework.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
@@ -15,3 +14,4 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Debug\net5.0\ref\InventoryManagement.Application.Contract.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Debug\net5.0\InventoryManagement.Application.Contract.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\InventoryManagement.Application.Contract\obj\Debug\net5.0\refint\InventoryManagement.Application.Contract.dll

@@ -59,15 +59,8 @@ namespace _01_LampshadeQuery.Query
                     Id = x.Id,
                     Message = x.Message,
                     Name = x.Name,
-                    ParentId = x.ParentId,
                     CreationDate = x.CreationDate.ToFarsi()
                 }).OrderByDescending(x => x.Id).AsNoTracking().ToList();
-
-            foreach (var comment in comments)
-            {
-                if (comment.ParentId > 0)
-                    comment.parentName = comments.FirstOrDefault(x => x.Id == comment.ParentId)?.Name;
-            }
 
             article.Comments = comments;
 

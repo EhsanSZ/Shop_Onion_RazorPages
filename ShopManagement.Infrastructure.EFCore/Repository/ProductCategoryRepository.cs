@@ -2,10 +2,8 @@
 using _0_Framework.Infrastracture;
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductCategoryAgg;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Linq.Expressions;
 
 namespace ShopManagement.Infrastructure.EFCore.Repository
 {
@@ -44,7 +42,8 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
 
         public string GetSlugById(long id)
         {
-            return _context.ProductCategories.Select(x => new { x.Id, x.Slug }).FirstOrDefault(x => x.Id == id).Slug;
+            return _context.ProductCategories.Select(x => new { x.Id, x.Slug })
+                .FirstOrDefault(x => x.Id == id).Slug;
         }
 
         public List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel)

@@ -1,6 +1,5 @@
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Infrastructure.Configuration\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.deps.json
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Infrastructure.Configuration\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.dll
-D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Infrastructure.Configuration\bin\Debug\net5.0\ref\CommentManagement.Infrastructure.Configuration.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Infrastructure.Configuration\bin\Debug\net5.0\CommentManagement.Infrastructure.Configuration.pdb
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Infrastructure.Configuration\bin\Debug\net5.0\0_Framework.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Infrastructure.Configuration\bin\Debug\net5.0\CommentManagement.Application.Contracts.dll
@@ -21,3 +20,4 @@ D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Infrastructure.Configu
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Infrastructure.Configuration\obj\Debug\net5.0\CommentManagement.Infrastructure.Configuration.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Infrastructure.Configuration\obj\Debug\net5.0\ref\CommentManagement.Infrastructure.Configuration.dll
 D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Infrastructure.Configuration\obj\Debug\net5.0\CommentManagement.Infrastructure.Configuration.pdb
+D:\MyProje\ASP.Net\Shop_Razor\LampShade\CommentManagement.Infrastructure.Configuration\obj\Debug\net5.0\refint\CommentManagement.Infrastructure.Configuration.dll

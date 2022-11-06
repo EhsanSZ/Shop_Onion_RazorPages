@@ -18,7 +18,8 @@ namespace DiscountManagement.Application
         public OperationResult Define(DefineColleagueDiscount command)
         {
             var operation = new OperationResult();
-            if (_colleagueDiscountRepository.Exists(x => x.ProductId == command.ProductId && x.DiscountRate == command.DiscountRate))
+            if (_colleagueDiscountRepository.Exists(x => x.ProductId == command.ProductId 
+            && x.DiscountRate == command.DiscountRate))
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var colleagueDiscount = new ColleagueDiscount(command.ProductId, command.DiscountRate);
@@ -35,7 +36,8 @@ namespace DiscountManagement.Application
             if (colleagueDiscount == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
-            if (_colleagueDiscountRepository.Exists(x => x.ProductId == command.ProductId && x.DiscountRate == command.DiscountRate && x.Id != command.Id))
+            if (_colleagueDiscountRepository.Exists(x => x.ProductId == command.ProductId
+            && x.DiscountRate == command.DiscountRate && x.Id != command.Id))
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             colleagueDiscount.Edit(command.ProductId, command.DiscountRate);

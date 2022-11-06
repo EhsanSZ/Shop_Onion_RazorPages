@@ -58,3 +58,4 @@ namespace ServiceHost.Areas.Administration.Pages
         public string BorderColor { get; set; }
     }
 }
+

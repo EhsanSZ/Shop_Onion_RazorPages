@@ -20,7 +20,7 @@ namespace ShopMangementApplication
         {
             var operation = new OperationResult();
             if (_productCategoryRepostory.Exists(x=> x.Name == command.Name))
-                operation.Failed(ApplicationMessages.DuplicatedRecord);
+                return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var slug = command.Slug.Slugify();
 
@@ -71,7 +71,6 @@ namespace ShopMangementApplication
         {
             return _productCategoryRepostory.GetProductCategories();
         }
-
 
         public List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel)
         {
